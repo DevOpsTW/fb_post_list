@@ -14,6 +14,8 @@
 6. 眼殘沒看到。
 7. 害羞所以沒收錄。
 
+若有遺漏好東西沒記錄到，歡迎協助補上。
+
 ##好文
 - Hacker News 上的討論 “ Best monitoring system? ”
 
@@ -562,3 +564,6 @@
 - Creating Great Team
 
 - DevOps in Practice
+
+
+
