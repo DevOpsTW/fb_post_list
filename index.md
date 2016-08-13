@@ -17,6 +17,61 @@
 若有遺漏好東西沒記錄到，歡迎協助補上。
 
 ##好文
+
+- cURL with HTTP2 Support - A Minimal Alpine-based Docker Image
+
+  https://nathanleclaire.com/blog/2016/08/11/curl-with-http2-support---a-minimal-alpine-based-docker-image/
+
+- 什麼是 DevOps？ | AWS
+
+  https://aws.amazon.com/tw/devops/what-is-devops/
+
+- From serverless to Service Full - How the mindset of devops is evolving
+
+  https://www.youtube.com/watch?v=bYCPbKHivMA
+
+  http://www.slideshare.net/jedi4ever/from-serverless-to-service-full-how-the-role-of-devops-is-evolving
+
+- 趋势科技基于Docker和Kubernetes的持续部署实践
+
+  http://www.infoq.com/cn/news/2016/08/sunqing-docker-kubernetes-CICD
+
+- Continuous Deployment with Containers》
+  
+  https://www.infoq.com/articles/continuous-deployment-containers
+
+  http://www.infoq.com/cn/articles/continuous-deployment-containers
+
+- Meet PuppetConf speaker Sally Lehman (講者的經驗談，像是哪些東西阻擋了團隊導入 CD？)
+
+  https://puppet.com/blog/meet-puppetconf-speaker-sally-lehman
+
+- Serverless Architectures（從各方面介紹serverless的design pattern以及BaaS PaaS FaaS不同的理解，文章很長但很值得一讀。）
+
+  http://martinfowler.com/articles/serverless.html
+
+- 想想自动化测试-(一～三)
+
+  http://www.jianshu.com/p/2473af93034b
+
+  http://www.jianshu.com/p/e2e0264a8ef8
+
+  http://www.jianshu.com/p/c131f9afc189
+
+- 軟體自動化測試常見的問題
+
+  https://rickhw.github.io/2014/05/09/SQA/Problems_In-Software-Autotest/
+
+- Writing Maintainable Configuration Code
+
+  https://www.infoq.com/articles/writing-maintainable-configuration-code
+
+- The Things I Learnt about DevOps When My Car Was Engulfed by Flames
+
+  https://www.infoq.com/articles/devops-car-in-flames
+
+  http://www.infoq.com/cn/articles/devops-car-in-flames
+
 - Hacker News 上的討論 “ Best monitoring system? ”
 
   https://news.ycombinator.com/item?id=12145879
@@ -283,6 +338,15 @@
 
 
 - William Yeh
+
+ - 開放我對《鳳凰項目》前三份導讀的提問內容，給有興趣深度閱讀的朋友參考
+
+  http://school.soft-arch.net/courses/on-the-phoenix-project/lectures/1271253
+
+ - 請循其本 | 溯源能力是很重要的，才不會被狀似革新，實則舊瓶裝新酒或跨領域借用的「新觀念」所迷惑。
+
+  http://school.soft-arch.net/blog/151626/back-to-the-origin
+
  - 《鳳凰項目》私房標題
 
   http://school.soft-arch.net/blog/135333/phoenix-proj-titles
@@ -336,6 +400,14 @@
   http://www.slideshare.net/williamyeh/immutable-infrastructure-55828718
 
 ## 挖寶區
+
+- Microsoft Technet | DevOps in the Enterprise, The role of IT in DevOps
+
+  https://blogs.technet.microsoft.com/devops/
+
+- What are the best DevOps blogs?
+  
+  https://www.quora.com/What-are-the-best-DevOps-blogs
 
 - DevOps Enterprise Summit 2014 - youtube playlist
 
@@ -533,6 +605,14 @@
 - 小米 open source 一個 monitoring system
 
   http://open-falcon.org/
+
+- flow.ci | flow.ci, hosted continuous integration and delivery service for innovators who shape the future.
+
+  http://flow.ci/
+
+- How to Build and Deploy Your Own Wire Client for Android with flow.ci
+
+  https://medium.com/flow-ci/how-to-build-and-deploy-your-own-wire-client-for-android-with-flow-ci-5c1a79ff7eca
 
 ## 其他
 
