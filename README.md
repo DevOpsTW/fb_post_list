@@ -2,4 +2,4 @@
 
 See https://devopstw.github.io/fb_post_list/
 
-(2016.8.13 更新)
+(2016/9/11 更新)
