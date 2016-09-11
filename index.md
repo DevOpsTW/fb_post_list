@@ -18,6 +18,67 @@
 
 ##好文
 
+- 亚马逊如何变成 SOA（面向服务的架构）？
+
+  http://www.ruanyifeng.com/blog/2016/09/how_amazon_take_soa.html
+
+- 「云端的DevOps」系列之大话DevOps解决方案变迁
+
+  http://www.infoq.com/cn/articles/devops-solution-change
+
+- 「云端的DevOps」系列之打造DevOps持续交付高速公路
+  
+  http://www.infoq.com/cn/articles/build-devops-continuous-delivery-highway
+
+- Container Clustering & Management: Docker Swarm, Kubernetes & Apache Mesos and Marathon
+
+  http://blog.calsoftinc.com/2016/09/container-clustering-management.html
+
+- TWELVE DEVOPS ANTI-PATTERNS
+
+  https://blog.devopsguys.com/2013/02/20/twelve-devops-anti-patterns/
+
+- 本文作者用兩間不同的餐廳情境，說明他認為的一種 DevOps 反模式，以及 DevOps 的關鍵「系统思考，全局优化」。
+
+  http://tong.im/2016/02/19/devops-anti-pattern/
+
+- 基础设施即代码 (原文 http://martinfowler.com/bliki/InfrastructureAsCode.html)
+
+  http://yaowenjie.github.io/devops/infrastructure-as-code
+  
+- 大學資訊科學相關科系若想以 Microsoft Azure 來教授 DevOps 之實作課程，微軟公司將相關教材與 Hands on lab 都放在 GitHub (英文) 以供相關教學自由取用
+
+  https://github.com/MSFTImagine/computerscience/tree/master/Complimentary%20Course%20Content/Module7
+
+- A Simple Introduction to Microservices
+
+  https://medium.com/flow-ci/a-simple-introduction-to-microservices-a69446d2c211#.2wqupfdx0
+
+- 免費 PDF (需輸入個資) ChatOps – Managing Operations in Group Chat
+
+  https://victorops.com/knowledge-drop/devops-docs/chatops-managing-operations-group-chat/
+
+- 執行效能優化需要有的十個心態
+  
+  https://medium.com/@HyperConnezion/%E6%95%88%E8%83%BD%E6%94%B9%E9%9D%A9%E5%B0%88%E6%AC%84-2-%E5%9F%B7%E8%A1%8C%E6%95%88%E8%83%BD%E5%84%AA%E5%8C%96%E9%9C%80%E8%A6%81%E6%9C%89%E7%9A%84%E5%8D%81%E5%80%8B%E5%BF%83%E6%85%8B-de756ac6f94b#.mfk34vpfr
+
+- 2016 DevOps Salary Report (puppet)
+  
+  https://puppet.com/resources/white-paper/2016-devops-salary-report
+
+- 樂天、日本雅虎都愛用的敏捷教練DevOps練成術
+
+  http://www.ithome.com.tw/news/107828
+
+- Top 13 Enterprise Cloud Services in China
+
+  https://medium.com/flow-ci/top-12-1-local-aws-alternatives-in-china-alibaba-cloud-and-beyond-20651fc133b0#.di1csaf0j
+
+- 簡報 - 來自 COSCUP 2016 講者 陳鋒逸 (小風) 分享的《Open Source 的 DevOps 工具箱》。
+
+  https://onedrive.live.com/view.aspx?resid=449602EB8FBEC303%212399&ithint=file%2Cpptx&app=PowerPoint&authkey=%21ANC0p7Yoi51Wu9E
+
+
 - cURL with HTTP2 Support - A Minimal Alpine-based Docker Image
 
   https://nathanleclaire.com/blog/2016/08/11/curl-with-http2-support---a-minimal-alpine-based-docker-image/
@@ -339,6 +400,14 @@
 
 - William Yeh
 
+ - 與導入 Docker 有關的 UDE
+
+  http://school.soft-arch.net/blog/259030/docker-ude
+
+ - 從 Ansible 到 Docker：混血模式
+
+  http://school.soft-arch.net/blog/247026/halfblood-docker
+
  - 開放我對《鳳凰項目》前三份導讀的提問內容，給有興趣深度閱讀的朋友參考
 
   http://school.soft-arch.net/courses/on-the-phoenix-project/lectures/1271253
@@ -400,6 +469,15 @@
   http://www.slideshare.net/williamyeh/immutable-infrastructure-55828718
 
 ## 挖寶區
+
+- Arrested DevOps is hosted by Matt Stratton, Trevor Hess, and Bridget Kromhout. ADO is the podcast that helps you achieve understanding, develop good practices, and operate your team and organization for maximum DevOps awesomeness. Don't forget to subscribe to keep up to date!
+
+  https://www.arresteddevops.com/
+
+- iThome - 跟著國際研討會學IT
+  
+  http://www.ithome.com.tw/video
+
 
 - Microsoft Technet | DevOps in the Enterprise, The role of IT in DevOps
 
@@ -484,6 +562,14 @@
   http://www.devopsbookmarks.com/
 
 ## 好物 & 工具 & 工具教學
+
+- GitBook - awesome-kubernetes
+
+  https://www.gitbook.com/book/ramitsurana/awesome-kubernetes/details
+
+- 如果 Testing 也能用 yaml 來管理的話就好了 - Taurus
+
+  http://gettaurus.org/
 
 - 推薦！國外工程師整理的系統管理員資源大全
 
