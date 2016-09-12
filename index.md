@@ -18,6 +18,14 @@
 
 ##好文
 
+- A pattern language for microservices
+
+  http://microservices.io/patterns/
+
+- Refactoring a Monolith into Microservices
+
+  https://www.nginx.com/blog/refactoring-a-monolith-into-microservices/?utm_source=introduction-to-microservices&utm_medium=blog
+
 - 亚马逊如何变成 SOA（面向服务的架构）？
 
   http://www.ruanyifeng.com/blog/2016/09/how_amazon_take_soa.html
@@ -27,7 +35,7 @@
   http://www.infoq.com/cn/articles/devops-solution-change
 
 - 「云端的DevOps」系列之打造DevOps持续交付高速公路
-  
+
   http://www.infoq.com/cn/articles/build-devops-continuous-delivery-highway
 
 - Container Clustering & Management: Docker Swarm, Kubernetes & Apache Mesos and Marathon
@@ -45,7 +53,7 @@
 - 基础设施即代码 (原文 http://martinfowler.com/bliki/InfrastructureAsCode.html)
 
   http://yaowenjie.github.io/devops/infrastructure-as-code
-  
+
 - 大學資訊科學相關科系若想以 Microsoft Azure 來教授 DevOps 之實作課程，微軟公司將相關教材與 Hands on lab 都放在 GitHub (英文) 以供相關教學自由取用
 
   https://github.com/MSFTImagine/computerscience/tree/master/Complimentary%20Course%20Content/Module7
@@ -59,11 +67,11 @@
   https://victorops.com/knowledge-drop/devops-docs/chatops-managing-operations-group-chat/
 
 - 執行效能優化需要有的十個心態
-  
+
   https://medium.com/@HyperConnezion/%E6%95%88%E8%83%BD%E6%94%B9%E9%9D%A9%E5%B0%88%E6%AC%84-2-%E5%9F%B7%E8%A1%8C%E6%95%88%E8%83%BD%E5%84%AA%E5%8C%96%E9%9C%80%E8%A6%81%E6%9C%89%E7%9A%84%E5%8D%81%E5%80%8B%E5%BF%83%E6%85%8B-de756ac6f94b#.mfk34vpfr
 
 - 2016 DevOps Salary Report (puppet)
-  
+
   https://puppet.com/resources/white-paper/2016-devops-salary-report
 
 - 樂天、日本雅虎都愛用的敏捷教練DevOps練成術
@@ -98,7 +106,7 @@
   http://www.infoq.com/cn/news/2016/08/sunqing-docker-kubernetes-CICD
 
 - Continuous Deployment with Containers》
-  
+
   https://www.infoq.com/articles/continuous-deployment-containers
 
   http://www.infoq.com/cn/articles/continuous-deployment-containers
@@ -475,7 +483,7 @@
   https://www.arresteddevops.com/
 
 - iThome - 跟著國際研討會學IT
-  
+
   http://www.ithome.com.tw/video
 
 
@@ -484,7 +492,7 @@
   https://blogs.technet.microsoft.com/devops/
 
 - What are the best DevOps blogs?
-  
+
   https://www.quora.com/What-are-the-best-DevOps-blogs
 
 - DevOps Enterprise Summit 2014 - youtube playlist
